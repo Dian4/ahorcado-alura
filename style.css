@@ -1,0 +1,76 @@
+body{
+    background-color: #F3F5FC;
+    font-family: 'Inter', sans-serif;
+}
+
+div{
+    text-align: center;
+}
+.cajatexto{
+    
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    background: #889ccf;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid #5878ca;
+    transition: 1s all;
+        
+}
+
+.cajatexto:hover {
+
+    transform: scale(1.2);
+}
+
+.boton{
+  
+    width: 20%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: #0A3871;
+    border: none;
+    border-radius: 20px;
+    transition: 1s all;
+    cursor: pointer;
+  
+}
+
+
+
+
+.boton:hover {
+   
+    transform: scale(1.2);
+}
+
+.boton2{
+   
+    width: 20%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #0A3871;
+    background: #F3F5FC;
+    border: "blue";
+    border-radius: 20px;
+    transition: 1s all;
+    cursor: pointer;
+    
+}
+
+.boton2:hover {
+
+    transform: scale(1.2);
+}
+
+
